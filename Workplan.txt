@@ -1,0 +1,86 @@
+
+
+ 
+1.       Clue: Cryptex spelling YEAR
+                    Next Clue location: Opposite YEAR
+                    Code: Cryptex
+                    Required prop: cryptex (tissue roll + paper)
+                    Answer:1Q84
+                    Location: BR
+ 
+2.       Clue: 2020-2021 WSR Super Star for category of Wit, Wisdom and Knowledge
+                    Answer: Wit Wisdom Knowledge Quotations book
+                    Next Clue location: Under trophy
+                    Location: Dining
+                    Note: KEEP the book
+ 
+3.       Clue: Its brand is NOSY.
+            Answer: Sony TV
+                    Next Clue location: Behind the TV
+                    Location: MB
+ 
+4.       Clue: What TI M E is according to Proverb.  Use the book of quotes.
+                    Answer: Gold Au
+                    Next Clue location: Red drawer in dining
+                    Required prop: Paper with symbol Au (Gold)
+                    Location: Dining
+ 
+5.       Clue: Relaxing Sea Side Bar in Sunset Beach.
+      42 15 31 11 55 24 33 22 43 15 11 43 24 14 15 12 11 42 24 33 43 45 33 43 15 44 12 15 11 13 23
+                    Code: Polybius cipher
+                    Answer: Anchor in dining room
+                    Next Clue location: taped at the back
+                    Location: Dining
+ 
+6.       Clue: Total weight of weights
+                    Answer:10 lb
+                    Next Clue location: Under the weights
+                    Hint:            Why pounds does not have the letters “l” and “b”
+                    Required prop: QR code for the hint.
+                    Location: Living
+                    Contents:
+The symbol "lb" represents the unit of weight known as "pound". It comes from the Latin word "libra", which means balance or scales. The term "pound" itself originates from the Latin "poundus" meaning weight. So, "lb" is used as a shorthand to represent "pound" in measurements.
+ 
+7.       Clue: Victoria’s weight in gold
+                    Answer: --(to be checked on day of event)
+                    Next Clue location: in website
+                    Required prop: QR code to link where they can type answer and retrieve clue
+                    Location: MB
+ 
+8.       Clue: What Karen Rose wants you to say.
+                    Answer: The novel Say You’re Sorry by Karen Rose. Type answer here.
+                    Location: Living
+                    Hint: Use Victoria’s weight to find the clue in the book.
+                    Next Clue location: page corresponding to Vic’s weight
+ 
+9.       Clue: Spell out
+            P  - Phosphorus
+                    Re- Rhenium
+                    Y – Yttrium
+         Add them up to find the clue.
+                    Answer: Prey
+            Next Clue location: page equivalent to sum of  Phosphorus + Rhenium + Yttrium
+            Location: Living
+ 
+10.    Clue: 844330999332777066633308443305556662228877778
+      use the green micromax phone to text and decode the message.
+    Cipher: SMS cipher
+    Required prop: SMS Cipher
+                    Answer: The Year of The Locust
+                    Location: MB
+ 
+11.    Clue:
+In the realm of words, a secret lies,
+A number hidden from prying eyes.
+Look not in the mirror, but in the tome,
+Where the years I've seen will find a home.
+Turn the pages, one by one,
+Stop when you reach the years I've won.
+There, in lines of ink and sage,
+Lies the secret that you seek.
+
+    Cipher: Book cipher
+                    Reference Book: The Year of The Locust
+                    Answer: from chapter 46 page 115
+ 
+ 

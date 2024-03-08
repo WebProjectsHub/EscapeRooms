@@ -1,40 +1,18 @@
-/*---------------set html height to full page--------*/
-html
-	{
-	-ms-text-size-adjust: 100%;		/*---Prevent iOS text size adjust after-*/
-	-webkit-text-size-adjust: 100%; 	/*orientation change, without disabling-*/
-	}					/*user zoom.---*/
-html, body
-	{
-	width:100%;
-	height:100%;
-	margin: 0;
-	}
 body
 	{
 	display:flex;
 	align-items:center;
 	justify-content:center;
 	}
-/*---------------set html height to full page--------*/
-/*---------------Req---------------------------------*/
-* 	{box-sizing: border-box;}
-/*---------------Req---------------------------------*/
-/*---------------Style the links---------------------*/
-a
-	{
-	text-decoration:none;
-	color:unset;
-	}
-/*---------------END Style the links-----------------*/
 /*---------------Style container---------------------*/
-.container
+.clueContainer
 	{
 	display:flex;
 	flex-direction:column;
 	width:80%;
 	height:80%;
 	border:2px solid gray;
+	padding:10px;
 	}
 /*---------------End Style container-----------------*/
 /*---------------Style input-------------------------*/
@@ -70,23 +48,13 @@ input[type=text]:focus
 	margin-bottom:20px;
 	}
 /*---------------END Style input---------------------*/
-/*---------------Style h3 ---------------------------*/
+/*---------------Style #message----------------------*/
 #message
 	{
 	width:100%;
-	
 	text-align:center;
-	font-family:Arial;
 	}
-p	{
-	font-size: 1.0rem;
-	}
-p2	{
-	font-weight:bold;
-	font-style:italic;
-	font-size: 1.8rem;
-	}
-/*---------------END Style h3 -----------------------*/
+/*---------------END Style #message------------------*/
 /*---------------Style placeholder-------------------*/
 ::placeholder 			/* For Firefox */
 	{
@@ -110,3 +78,51 @@ p2	{
 	color:yellow;
 	}
 /*---------------END Style placeholder---------------*/
+/*---------------Style text decorations--------------*/
+ib
+	{
+	font-weight:bold;
+	font-style:italic;
+	}
+
+ib::before, ib::after
+	{content:'"';}
+
+ibb	/*--italic bold blink--*/
+	{
+	font-weight:bold;
+	font-style:italic;
+	animation-name:blink;
+	animation-duration:1s;
+	animation-iteration-count: infinite;
+	}
+ibbb	/*--italic bold blink fast--*/
+	{
+	font-weight:bold;
+	font-style:italic;
+	animation-name:blink;
+	animation-duration:0.5s;
+	animation-iteration-count: infinite;
+
+	}
+
+@keyframes blink
+	{
+	from	{
+		background-color:yellow;
+		color:black;
+		}
+	to	{
+		background-color:unset;
+		color:red;
+		}
+	}
+
+span img
+	{
+	height:15px;
+	width:15px;
+	align-self:center;
+	margin-bottom:0;
+	}
+/*---------------END Style text decorations----------*/

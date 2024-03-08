@@ -2,7 +2,9 @@
 <html>
 <head>
    <title>Weight Input</title>
-   <link rel="stylesheet" href="index.css">
+   <link rel="stylesheet" href="clueIndex.css">
+   <link rel="stylesheet" href="../index.css">
+
    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
    <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -15,7 +17,7 @@
 <div class="container">
 
 	<input 	type="text" id="weight" oninput="checkInput()" placeholder="Answer here.">	
-	<p id="message"></p>
+	<h6 id="message"></h6>
 
 </div>
 <!----------END Container-------->
@@ -23,7 +25,7 @@
 function checkInput() {
   var weight = document.getElementById("weight").value;
   if (weight == "20") {
-    document.getElementById("message").innerHTML = "<p>Good job. Here is the clue.</p><br><p2>'What Karen Rose wants you to say.'<p2>";
+    document.getElementById("message").innerHTML = "<p>Good job. Here is the clue.</p><br><h4>'What Karen Rose wants you to say.'<h4>";
   } else {
     document.getElementById("message").innerHTML = "Try again!";
   }

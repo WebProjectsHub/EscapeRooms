@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Pound Clue</title>
+   <link rel="stylesheet" href="clueIndex.css">
+   <link rel="stylesheet" href="../index.css">
+
+   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+</head>
+<style>
+</style>
+<body>
+<!----------Container------------>
+<div class="clueContainer">
+	<p><b>
+The Clue
+	</b></p>
+	<h5>
+Where does the pound symbol <ib>lb</ib> come from?
+	</h5>
+	<p>
+The symbol <ib>lb</ib> represents the unit of weight known as <ib>pound</ib>. It comes from the Latin word <i>"libra"</i>, which means balance or <ibbb>scales</ibbb><span class="image"><img src='../Assets/images/wScale.jfif'></span>. 
+<br><br>
+The term <ib>pound</ib> itself originates from the Latin <ib>poundus</ib> meaning weight. So, <ib>lb</ib> is used as a shorthand to represent <ib>pound</ib> in measurements.
+	</p>
+
+</div>
+<!----------END Container-------->
+<script>
+function checkInput() {
+  var weight = document.getElementById("weight").value;
+  if (weight == "20") {
+    document.getElementById("message").innerHTML = "<p>Good job. Here is the clue.</p><br><p2>'What Karen Rose wants you to say.'<p2>";
+  } else {
+    document.getElementById("message").innerHTML = "Try again!";
+  }
+}
+</script>
+
+</body>
+</html>

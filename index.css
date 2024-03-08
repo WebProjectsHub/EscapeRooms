@@ -1,0 +1,112 @@
+/*---------------set html height to full page--------*/
+html
+	{
+	-ms-text-size-adjust: 100%;		/*---Prevent iOS text size adjust after-*/
+	-webkit-text-size-adjust: 100%; 	/*orientation change, without disabling-*/
+	}					/*user zoom.---*/
+html, body
+	{
+	width:100%;
+	height:100%;
+	margin: 0;
+	}
+body
+	{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	}
+/*---------------set html height to full page--------*/
+/*---------------Req---------------------------------*/
+* 	{box-sizing: border-box;}
+/*---------------Req---------------------------------*/
+/*---------------Style the links---------------------*/
+a
+	{
+	text-decoration:none;
+	color:unset;
+	}
+/*---------------END Style the links-----------------*/
+/*---------------Style container---------------------*/
+.container
+	{
+	display:flex;
+	flex-direction:column;
+	width:80%;
+	height:80%;
+	border:2px solid gray;
+	}
+/*---------------End Style container-----------------*/
+/*---------------Style input-------------------------*/
+input
+	{
+	display:flex;
+	justify-content:center;
+	height:20%;
+	width:80%;
+	
+	border-radius:5px;
+	border: 1px solid #2B2D42;
+
+	margin-top:auto;
+	margin-bottom:auto;
+	margin-left:auto;
+	margin-right:auto;
+
+	font-style:normal;
+	font-family:Arial;
+	font-weight:bold;
+	font-size: 2.0rem;
+	text-align:center;
+	color:silver;
+	}
+input[type=text]:focus
+	{
+	background-color:yellow;
+	font-size: 4.0rem;
+	height:50%;
+	width:50%;
+	color:black;
+	margin-bottom:20px;
+	}
+/*---------------END Style input---------------------*/
+/*---------------Style h3 ---------------------------*/
+#message
+	{
+	width:100%;
+	
+	text-align:center;
+	font-family:Arial;
+	}
+p	{
+	font-size: 1.0rem;
+	}
+p2	{
+	font-weight:bold;
+	font-style:italic;
+	font-size: 1.8rem;
+	}
+/*---------------END Style h3 -----------------------*/
+/*---------------Style placeholder-------------------*/
+::placeholder 			/* For Firefox */
+	{
+	color: silver;
+	opacity: 1; 
+	}
+
+::-ms-input-placeholder 	/* For Edge 12 -18 */
+	{ 
+	word-wrap: break-word;
+	color: blue;
+	}
+
+::placeholder input[type=text]:focus
+	{
+	color:yellow;
+	}
+
+::-ms-input-placeholder input[type=text]:focus
+	{
+	color:yellow;
+	}
+/*---------------END Style placeholder---------------*/

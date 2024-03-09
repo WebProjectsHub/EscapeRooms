@@ -4,6 +4,10 @@ body
 	align-items:center;
 	justify-content:center;
 	}
+
+p	{
+	text-align:justify;
+	}
 /*---------------Style container---------------------*/
 .clueContainer
 	{
@@ -13,7 +17,16 @@ body
 	height:80%;
 	border:2px solid gray;
 	padding:10px;
+	overflow:auto;
 	}
+
+
+.clueContainer p
+	{
+	overflow:auto;
+	}
+
+
 /*---------------End Style container-----------------*/
 /*---------------Style input-------------------------*/
 input
@@ -126,3 +139,50 @@ span img
 	margin-bottom:0;
 	}
 /*---------------END Style text decorations----------*/
+/*---------------Style polybuis Key------------------*/
+.codeKey
+	{
+	display:flex;
+	width:100%;
+	height:auto;
+	margin-bottom:20px;
+	}
+.codeKey img
+	{
+	width:100%;
+	height:auto;
+	}
+
+.clueTitle
+	{
+	display:flex;
+	font-weight:bold;
+	font-size:1.2rem;
+	height:30px;
+	position:sticky;
+	}
+.clueContent
+	{
+	display:flex;
+	overflow:auto;
+	}
+/*---------------END Style polybuis Key--------------*/
+/*---------------Style Time clue---------------------*/
+.clueImage
+	{
+	display:flex;
+	width:100%;
+	height:auto;
+	margin-bottom:20px;
+	}
+.clueImage img
+	{
+	width:100%;
+	height:auto;
+	}
+.clueImage2 img
+	{
+	width:50%;
+	height:auto;
+	}
+/*---------------End Style Time clue-----------------*/

@@ -35,8 +35,8 @@ html, body
 	position:fixed;
 	width:100vw;
 	height:100vh;
-	-webkit-background-image:url(../Assets/images/Ars_Poetic-bg.jpg);
-	background-image:url(../Assets/images/Ars_Poetic-bg.jpg);
+	-webkit-background-image:url(./Assets/images/05.jfif);
+	background-image:url(./Assets/images/05.jfif);
 	background-size: cover;
 	background-position:0% 0%;
 	background-repeat: no-repeat;
@@ -52,7 +52,7 @@ html, body
 	display:flex;
 	flex-direction:row;
 	flex-wrap:wrap;
-	justify-content:space-between;
+	justify-content:center;
 	width:80%;
 	height:100%;
 	
@@ -173,24 +173,28 @@ button
 	border-radius:5px;
 	border:none;
 	padding:0 10px 0 10px;
-	font-size: 1.20rem;
+	font-size: 1.2rem;
 
 	font-family: 'NotoSansSymbols', sans-serif;
 	line-height:1.5rem;
 	cursor:pointer;
+	align-items:center;
 	}
 
 #clueLinks
 	{
-	height:50%;
-	min-width:30%;
+	display:flex;
+	justify-content:center;
+	height:unset;
+	flex:1;
+	margin:5px;
 	border-radius:5px;
 	border:none;
-	padding:0 10px 0 10px;
-	font-size: 1.20rem;
+	padding:20px;
 
 	font-family: 'NotoSansSymbols', sans-serif;
-	line-height:1.5rem;
+	font-size: 3.0rem;
+	line-height:4.0rem;
 	cursor:pointer;
 	}
 /*---------------END Style buttons-------------------*/

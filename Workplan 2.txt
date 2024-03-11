@@ -33,4 +33,14 @@
 		to go outside and look within>
 	Points to: Vic's laptop.
 	Resource required:
-		Drawing of Doc Binocs
+		Drawing of Doc Binocs and the word Dyslexia.
+		"Come and find me."
+		"Scan the QR code and type the correct answer"
+		QR code to next clue.
+		Answer: Albert Einstein
+			QR code prompt: "Movie with this not 
+			unintelligent person."
+			Points to: Oppenheimer ticket.
+
+4. <Clue that leads to crossword cipher>
+	Found at: 

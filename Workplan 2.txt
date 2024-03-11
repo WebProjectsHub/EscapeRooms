@@ -1,24 +1,36 @@
-1. Object from dining room using tracing paper
+1. Find the view from the dining room using tracing paper
 	Points to: kitchen cabinet
-	Text: find location of the clue coop mode.
+	Text: find the location of the clue, coop mode.
 	Resource required:
 		Tracing paper image.
 
-2. Hidden object game.
+2. QR code that leads to a Hidden Object Game
 	Found at: Kitchen cabinet
-	Text: Find the key. Unscramble the words. 
-		refers to ----
+	Text in QR Code link: 
+		Clues abound in this image.
+		But first you must find the
+		key to unlock the word. 
+		If you get stuck with the word,
+		ask mommy.
 	Answer: Saracen
-	Points to: I Am Pilgrim
+	Points to: I Am Pilgrim (Saracen) page 313
+	Points to: Lithograph
+	Points to: A word in the lithograph
 	Resource required:
-		Image for hidden object game.
-		Image should have a keys
-		and a piece of paper that says
+		- Image for hidden object game.
+		- Image should have
+			- keys, each with 'sar,' 'a,' 'cen'
+			- a piece of paper that says
 		the number of letters on each key
 		points to the page in the book.
-		Another set of paper gives the 
+			- Another paper gives the 
 		code for book cipher.
-3. 
+			- another image of the lithograph
+		with portion blurred but magnified.
+3. <Find words that would lead to next clue from p313>
 	Found at: I Am Pilgrim
-	Text: 
-	Points to: Litograph on the wall
+	Text: <Text from I Am Pilgrim should say 
+		to go outside and look within>
+	Points to: Vic's laptop.
+	Resource required:
+		Drawing of Doc Binocs

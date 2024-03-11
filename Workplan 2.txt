@@ -1,0 +1,24 @@
+1. Object from dining room using tracing paper
+	Points to: kitchen cabinet
+	Text: find location of the clue coop mode.
+	Resource required:
+		Tracing paper image.
+
+2. Hidden object game.
+	Found at: Kitchen cabinet
+	Text: Find the key. Unscramble the words. 
+		refers to ----
+	Answer: Saracen
+	Points to: I Am Pilgrim
+	Resource required:
+		Image for hidden object game.
+		Image should have a keys
+		and a piece of paper that says
+		the number of letters on each key
+		points to the page in the book.
+		Another set of paper gives the 
+		code for book cipher.
+3. 
+	Found at: I Am Pilgrim
+	Text: 
+	Points to: Litograph on the wall

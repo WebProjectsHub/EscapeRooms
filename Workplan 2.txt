@@ -43,4 +43,6 @@
 			Points to: Oppenheimer ticket.
 
 4. <Clue that leads to crossword cipher>
-	Found at: 
+	Found at: QR code at back of Oppenheimer ticket
+	gives a clue that leads to the cipher.
+	Text: 

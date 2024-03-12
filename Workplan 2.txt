@@ -17,6 +17,7 @@ Alternative if it does not work:
 	Points to: kitchen cabinet
 	Text: find the location of the clue, coop mode.
 	Resource required:
+		Paper arrows attached to the inside of the cabinet.
 		Tracing paper image.
 
 2. QR code that leads to a Hidden Object Game
@@ -57,7 +58,22 @@ Alternative if it does not work:
 			unintelligent person."
 			Points to: Oppenheimer ticket.
 
-4. <Clue that leads to crossword cipher>
+4. <Clue that leads to clue>
 	Found at: QR code at back of Oppenheimer ticket
-	gives a clue that leads to the cipher.
-	Text: 
+	gives a clue that leads to the text below.
+	Text: In the webpage link of QR code:
+	22 5 7
+	“The monsters were never under my bed. 
+	Because the monsters were inside my head. 
+	I fear no monsters, for no monsters I see.” 
+	— Nikita Gill
+	Points to: under the bed.
+
+5. Taped under Vic's bed
+	“Retrace your steps to where the quest was born,
+	To the start, you must return, as if time is torn.”
+
+		"q" of quest should be written as 9. 
+	Points to: book 9 of ---
+
+		

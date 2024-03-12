@@ -11,6 +11,9 @@ Alternative if it does not work:
 	“Where pots and pans live and dishes hide away,
 	Seek within, where secret treasures lay.”
 
+	“In the place where shadows dance and flicker,
+	Seek the beacon that makes the answer clearer.”
+
 	Points to: kitchen cabinet
 	Text: find the location of the clue, coop mode.
 	Resource required:

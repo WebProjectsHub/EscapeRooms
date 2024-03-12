@@ -76,20 +76,21 @@ Find words that would lead to next clue from p313>
 	Points to: under the bed.
 
 5. Taped under Vic's bed
-	“Retrace your steps to where the quest was born,
+	“Retrace your ste9s to where the quest was 6orn,
 	To the start, you must return, as if time is torn.”
 
 		"q" of quest should be written as 9.
 		"b" of born should be written as 6.
-	Points to: book 9 and 6 of ---
+	Points to: book 9 and 6 of The Diary of a Wimpy Kid.
 		Inside is the grid cypher.
 
 6. On book 6 the key
    On book 9 the grid.
 	Key: 
-In th er ea lm wh er eh is to ry ’s wh is pe rs ec ho ,F in dt he ed if ic ei nc om pl et e, it sc ol um nh ol lo w. Up on th ew al l, th eq ue st ’s en dw il lb ef ou nd ,W he re th eg ra il re st s, in si le nc ep ro fo un d.
+M3	S6	I11	I7	S22	I14	J16	O26	O9	I2	O15	P19	I19	O17	O16	I3	J3	I15	O2	E19	U6	C6	O8	B6	F26	O25	H6	G26	D19	I8	I16	O11	F19	N3	L3	O3	G19	K3	O10	I9	O12	I10	T6	O7	R6	I12	P22	Q6	F6	M26	D26	D56	I6	P6	I17	G6	K26	R22	O6	O13	I13	O26	I18	H19	O19	O14	O18	J26	E6	N26	Q22	H26	L26	I26	E26	O24
 
-	Points to: 
+
+	Points to: Petra lithograph on the hallway
 “In the realm where history’s whispers echo,
 Find the edifice incomplete, its column hollow.”
 

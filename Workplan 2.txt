@@ -48,7 +48,8 @@ Alternative if it does not work:
 		code for book cipher.
 			- another image of the lithograph
 		with portion blurred but magnified.
-3. <Find words that would lead to next clue from p313>
+3. <Using the book cipher from Hidden Objects Game
+Find words that would lead to next clue from p313>
 	Found at: I Am Pilgrim
 	Text: <Text from I Am Pilgrim should say 
 		to go outside and look within>
@@ -84,10 +85,16 @@ Alternative if it does not work:
 		Inside is the grid cypher.
 
 6. On book 6 the key
-	On book 9 the grid.
+   On book 9 the grid.
 	Key: 
+In th er ea lm wh er eh is to ry ’s wh is pe rs ec ho ,F in dt he ed if ic ei nc om pl et e, it sc ol um nh ol lo w. Up on th ew al l, th eq ue st ’s en dw il lb ef ou nd ,W he re th eg ra il re st s, in si le nc ep ro fo un d.
 
 	Points to: 
+“In the realm where history’s whispers echo,
+Find the edifice incomplete, its column hollow.”
+
+“Upon the wall, the quest’s end will be found,
+Where the grail rests, in silence profound.”
 	
 
 		

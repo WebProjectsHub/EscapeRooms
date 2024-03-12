@@ -15,7 +15,12 @@ Alternative if it does not work:
 	Seek the beacon that makes the answer clearer.”
 
 	Points to: kitchen cabinet
-	Text: find the location of the clue, coop mode.
+	Text: Text on tracing paper.
+	Arrr, seekin' treasure, are ye? Don't sail solo,
+	Find ye a hearty mate, or it's a no-go.
+	Two buccaneers be better fer findin' the loot,
+	Hoist the Jolly Roger and give a hoot!
+
 	Resource required:
 		Paper arrows attached to the inside of the cabinet.
 		Tracing paper image.
@@ -73,7 +78,16 @@ Alternative if it does not work:
 	“Retrace your steps to where the quest was born,
 	To the start, you must return, as if time is torn.”
 
-		"q" of quest should be written as 9. 
-	Points to: book 9 of ---
+		"q" of quest should be written as 9.
+		"b" of born should be written as 6.
+	Points to: book 9 and 6 of ---
+		Inside is the grid cypher.
+
+6. On book 6 the key
+	On book 9 the grid.
+	Key: 
+
+	Points to: 
+	
 
 		

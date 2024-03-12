@@ -96,6 +96,13 @@ Find the edifice incomplete, its column hollow.”
 
 “Upon the wall, the quest’s end will be found,
 Where the grail rests, in silence profound.”
+
+	Points to: Back to Hidden Objects Game.
+	Kazneh
+	Not the 12th champion.
+	Points to: Idol
+
+7.
 	
 
 		

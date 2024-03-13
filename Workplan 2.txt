@@ -102,7 +102,13 @@ Where the grail rests, in silence profound.”
 	Not the 12th champion.
 	Points to: Idol
 
-7.
-	
+7. <Clue that leads to page in "The Angel's Game">
+"Find the tale of X's plight,
+Where his eyes saw no more light.
+Facing a church, his body lay,
+Seek the page that tells this day."
 
-		
+	Found at: Under the idol
+	Points to: Page xx in "The Angel's Game"
+
+8. 

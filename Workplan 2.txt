@@ -55,7 +55,7 @@ Clue: Unlock me with 3 kisses + 1 more for good luck.
 	Found at: 	MB door 	- "SAR"
 			Kit door	- "A"
 			Back door	- "Cen"
-			silver key located in x - "I am"
+			silver key located in x
 		Leads to: Lock 
 			Clue in the lock:
 			In this quest for treasure, secrets we encode,
@@ -63,6 +63,9 @@ Clue: Unlock me with 3 kisses + 1 more for good luck.
 			put them together to find a number, pure as gold,
 			It points to a page where the next tale unfolds.
 			Leads to: Page 313 of "I Am Pilgrim"
+
+			Written on the lock
+			<Book cipher for page 313 of "I Am Pilgrim">
 
 
 

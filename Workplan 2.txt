@@ -48,6 +48,24 @@ Alternative if it does not work:
 		code for book cipher.
 			- another image of the lithograph
 		with portion blurred but magnified.
+2. Alternative:
+Clue: Unlock me with 3 kisses + 1 more for good luck.
+	Found at: QR code attached to kitchen cabinet.
+	Points to: 3 keys each with "sar", "a", "cen."
+	Found at: 	MB door 	- "SAR"
+			Kit door	- "A"
+			Back door	- "Cen"
+			silver key located in x - "I am"
+		Leads to: Lock 
+			Clue in the lock:
+			In this quest for treasure, secrets we encode,
+			Count each key's letters, as in stories of old.
+			put them together to find a number, pure as gold,
+			It points to a page where the next tale unfolds.
+			Leads to: Page 313 of "I Am Pilgrim"
+
+
+
 3. <Using the book cipher from Hidden Objects Game
 Find words that would lead to next clue from p313>
 	Found at: I Am Pilgrim

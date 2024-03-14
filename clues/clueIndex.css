@@ -8,6 +8,13 @@ body
 p	{
 	text-align:justify;
 	}
+
+#quote
+	{
+	font-family:Consolas;
+	font-size:1.5rem;
+	line-height:2.0rem;
+	}
 /*---------------Style container---------------------*/
 .clueContainer
 	{
@@ -25,6 +32,7 @@ p	{
 	{
 	overflow:auto;
 	}
+
 
 
 /*---------------End Style container-----------------*/
@@ -56,9 +64,10 @@ input[type=text]:focus
 	background-color:yellow;
 	font-size: 4.0rem;
 	height:50%;
-	width:50%;
+	width:80%;
 	color:black;
 	margin-bottom:20px;
+	overflow:auto;
 	}
 /*---------------END Style input---------------------*/
 /*---------------Style #message----------------------*/
@@ -66,6 +75,11 @@ input[type=text]:focus
 	{
 	width:100%;
 	text-align:center;
+
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	align-items:center;
 	}
 /*---------------END Style #message------------------*/
 /*---------------Style placeholder-------------------*/

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Quote</title>
+   <link rel="stylesheet" href="clueIndex.css">
+   <link rel="stylesheet" href="../index.css">
+
+   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+</head>
+<style>
+</style>
+<body>
+<!----------Container------------>
+<div class="clueContainer">
+	<h6>
+The Code
+	</h6>
+	<h5>
+22 5 7
+	</h5>
+	<h6>
+The Key
+	</h6>
+	<p id="quote">
+The monsters were never under my bed.  Because the monsters were inside my head.  I fear no monsters, for no monsters I see.		</p><br>
+	<p>
+		<span style="float:right;">
+			— Nikita Gill
+		</span>	
+	</p>
+
+	
+
+
+</div>
+<!----------END Container-------->
+<script>
+function checkInput() {
+  var weight = document.getElementById("weight").value;
+  if (weight == "20") {
+    document.getElementById("message").innerHTML = "<p>Good job. Here is the clue.</p><br><p2>'What Karen Rose wants you to say.'<p2>";
+  } else {
+    document.getElementById("message").innerHTML = "Try again!";
+  }
+}
+</script>
+
+</body>
+</html>

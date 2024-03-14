@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <title>Dislexia</title>
+   <link rel="stylesheet" href="clueIndex.css">
+   <link rel="stylesheet" href="../index.css">
+
+   <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+</head>
+<style>
+</style>
+<body>
+<!----------Container------------>
+<div class="container">
+	<h5>
+		A famous dislexic, according to Dr. Binocs.
+	</h5>
+	<input 	type="text" id="weight" oninput="checkInput()" placeholder="Answer here.">	
+	<h6 id="message"></h6>
+
+</div>
+<!----------END Container-------->
+<script>
+function checkInput() 
+{
+var weight = document.getElementById("weight").value;
+	if (weight == "Albert Einstein" || weight == "Einstein")
+		{
+			document.getElementById("message").innerHTML = "<p>Good job. Here is the clue.</p><br><h4>'The movie with this not unintelligent person.'<h4>";
+  		} 
+		else 
+		{
+    			document.getElementById("message").innerHTML = "Try again!<br>Make sure the name is properly capitalized.";
+  		}
+}
+</script>
+
+</body>
+</html>

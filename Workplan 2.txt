@@ -126,7 +126,10 @@ Where the grail rests, in silence profound.”
 	Points to: Idol
 
 7. <Clue that leads to hearts in MB>
-"My heart has a space reserved only for you.
+"Seek where the azure heart lies low,
+Beneath its shade, secrets glow.
+A piece is lost, yet to be found,
+In its silence, your clue is sound."
 
 	Found at: Under the idol
 	Points to: hearts in MB
